@@ -16,7 +16,7 @@ On the github repository you will also find the scripts I use to scrape
 data and update the website.
 
 ## Data & Models
-R datasets can be downloaded from [MendeleyData](https://data.mendeley.com/datasets/56rmx5bjcr/1). The sample dataset can be download from dataset folder.
+R datasets can be downloaded from [MendeleyData](https://data.mendeley.com/datasets/56rmx5bjcr/1). The sample dataset can be download from dataset folder.A full dataset is on request followed by the restrictions of dataset owner.
 
 # Adding data
 
