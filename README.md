@@ -1,10 +1,7 @@
 
-# What is this?
+# Skeletal Age 
 
-`Rdatasets` is a collection of 2142 datasets which were originally
-distributed alongside the statistical software environment `R` and some
-of its add-on packages. The goal is to make these data more broadly
-accessible for teaching and statistical software development.
+A novel `Skeletal Age` metric as the age of an individual’s skeleton resulting from a fragility fracture to convey the combined risk of fracture and fracture-associated mortality for an individual with specific risk profile.
 
 # What is included?
 
@@ -18,11 +15,29 @@ The list of available datasets (csv and docs) is available here:
 On the github repository you will also find the scripts I use to scrape
 data and update the website.
 
+## Data & Models
+R datasets can be downloaded from [KneeXrayData](https://data.mendeley.com/datasets/56rmx5bjcr/1). The sample dataset can be download from dataset folder.
+
 # Adding data
 
 Rdatasets only includes data from packages published on the CRAN
 repository. Please open an issue on the Github repository if you would
 like me to add data from a new package.
+
+## Citation
+Please consider `cite` the paper if you use the code or data for your research.
+```
+@article{Tran2022SkeletalAge,
+  title={Skeletal Age for mapping the impact of fracture on mortality},
+  author={Thach Tran, Thao Ho-Le, Dana Bliuc, Bo Abrahamsen, Louise Hansen, Peter Vestergaard, Jacqueline R. Center, Tuan V. Nguyen},
+  journal={medRxiv},,
+  volume={75},
+  pages={84--92},
+  year={2022},
+  doi={https://doi.org/10.1101/2022.09.09.22279789},
+  publisher={Elsevier}  
+}
+```
 
 # License
 
