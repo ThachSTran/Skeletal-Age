@@ -8,9 +8,9 @@
 The aggregated data, the analysis codes and the analysis output are available here:
 
   - [HTML
-    index](https://vincentarelbundock.github.io/Rdatasets/articles/codes.html)
+    File](https://github.com/ThachSTran/Skeletal-Age.html)
   - [PDF
-    index](https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/analysis_output.pdf)
+    File](https://github.com/ThachSTran/Skeletal Age_Rmarkdown.pdf)
 
 ## Citation
 Please consider `cite` the paper if you use the code or data for your research.
