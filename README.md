@@ -7,10 +7,8 @@
 
 The aggregated data, the analysis codes and the analysis output are available here:
 
-  - [HTML
-    File](https://github.com/ThachSTran/Skeletal-Age.html)
-  - [PDF
-    File](https://github.com/ThachSTran/Skeletal Age_Rmarkdown.pdf)
+  - [HTML File](https://github.com/ThachSTran/Skeletal-Age.html)
+  - [PDF File](https://github.com/ThachSTran/Skeletal Age_Rmarkdown.pdf)
 
 ## Citation
 Please consider `cite` the paper if you use the code or data for your research.
