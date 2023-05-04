@@ -14,19 +14,19 @@ The aggregated data, the analysis codes and the analysis output are available he
 Please consider `cite` the paper if you use the code or data for your research.
 ```
 @article{Tran2022SkeletalAge,
-  title={Skeletal Age for mapping the impact of fracture on mortality},
+  title={'Skeletal Age' for mapping the impact of fracture on mortality},
   author={Thach Tran, Thao Ho-Le, Dana Bliuc, Bo Abrahamsen, Louise Hansen, Peter Vestergaard, Jacqueline R. Center, Tuan V. Nguyen},
-  journal={medRxiv},,
-  volume={75},
-  pages={84--92},
+  journal={eLife},,
+  volume={12},
+  pages={e83888},
   year={2022},
-  doi={https://doi.org/10.1101/2022.09.09.22279789},
-  publisher={Elsevier}  
+  doi={https://doi.org/10.7554/eLife.83888},
+  publisher={eLife Sciences Publications Ltd}  
 }
 ```
 
 # License
 
-The code in this repository is licensed under GPL-3.
+The code in this repository is licensed with an open source license [https://opensource.org/licenses].
 
 If you need additional information, please contact me at <SonThach.Tran@uts.edu.au>.
